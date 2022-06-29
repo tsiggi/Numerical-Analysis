@@ -1,6 +1,6 @@
 # Numerical-Analysis
-- [ReadMe in Greek](https://github.com/tsingi-chris/Numerical-Analysis/blob/master/README.md#readme-in-greek)
-- [ReadMe in English](https://github.com/tsingi-chris/Numerical-Analysis/blob/master/README.md#readme-in-english)
+- [ReadMe in Greek](https://github.com/tsingi-chris/Numerical-Analysis/blob/main/README.md#readme-in-greek)
+- [ReadMe in English](https://github.com/tsingi-chris/Numerical-Analysis/blob/main/README.md#readme-in-english)
 
 ## ReedMe in Greek
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
