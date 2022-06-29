@@ -7,5 +7,5 @@
 
 ## ReadMe in English
 
-This repository contains 2 Assignment in Numerical Anlysis.
+This repository contains the 2 Assignment assigned to Numerical Anlysis.
 <!-- <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> -->
