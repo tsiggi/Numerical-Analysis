@@ -1,4 +1,7 @@
 # Numerical-Analysis
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/Numerical-Analysis"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/Numerical-Analysis">
+
 - [ReadMe in Greek](https://github.com/tsingi-chris/Numerical-Analysis#reedme-in-greek)
 - [ReadMe in English](https://github.com/tsingi-chris/Numerical-Analysis#readme-in-english)
 
