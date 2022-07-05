@@ -4,6 +4,7 @@
 
 ## ReedMe in Greek
 Αυτό το repository περιέχει 2 Εργασίες που ανατέθηκαν στην Αριθμητική Ανάλυση (2021-2022). <br />
+Όλες οι εργασίες έχουν γραφτεί σε γλώσσα προγραμματισμού Python. Επιπλέον, έχουν γραφτεί pdf αναφορές για κάθε άσκηση σε Latex. <br />
 Για κάθε μια, υπάρχει ξεχωριστός φάκελος που περιέχει τα αρχεία, αλλά και περισσότερες πληροφορίες. <br /><br />
 Οι δύο φάκελοι είναι οι ακόλουθοι : 
 - [1η Εργασία](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/1st%20Assignment) 
@@ -30,6 +31,7 @@
 ## ReadMe in English
 
 This repository contains the 2 Assignment, assigned to Numerical Analysis (Winter 2021-2022).<br />
+Program language for the two assignments is Python. Furthermore, there is a pdf report for every exercise writen in Latex. <br />
 There is a folder for each assignment, containing program files and more README files. <br /> <br />
 The two folders are : 
 - [1st Assignment](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/1st%20Assignment) 
