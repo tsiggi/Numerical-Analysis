@@ -4,8 +4,8 @@
 
 ## ReedMe in Greek
 Αυτό το repository περιέχει 2 Εργασίες που ανατέθηκαν στην Αριθμητική Ανάλυση (2021-2022). <br />
-Για κάθε μια, υπάρχει ξεχωριστός φάκελος που περιέχει τα αρχεία, αλλά και περισσότερες πληροφορίες.
-
+Για κάθε μια, υπάρχει ξεχωριστός φάκελος που περιέχει τα αρχεία, αλλά και περισσότερες πληροφορίες. <br />
+Οι δύο φάκελοι είναι οι ακόλουθοι : 
 - [1η Εργασία](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/1st%20Assignment) 
     - 
     Σε αυτή την εργασία περιέχονται τα ακόλουθα : 
@@ -23,7 +23,6 @@
 <br />
 <br />
 ### Αριθμητική Ανάλυση
-
 Η [Αριθμητική Ανάλυση](https://elearning.auth.gr/course/view.php?id=7942) είναι ένα μάθημα γενικού κορμού του τμήματος Πληροφορικής του ΑΠΘ.  <br /> 
 Διδάσκεται στο χειμερινό εξάμηνο του 2ου έτους. 
 
@@ -50,6 +49,5 @@ The two folders are :
   - Least Squares Method. ([Άσκηση 7](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/1st%20Assignment/Exercise%207))
 
 ### Numerical Analysis
-
 [Numerical Analysis](https://elearning.auth.gr/course/view.php?id=7942) is a general core course of the Computer Science Department of Auth.  <br /> 
 Taught in the winter semester of the 2nd year.
