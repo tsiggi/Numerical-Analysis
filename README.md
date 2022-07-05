@@ -17,13 +17,12 @@
 - [2η Εργασία](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/2nd%20Assignment) <br />
   - 
     Σε αυτή την εργασία υλοποιούνται τα ακόλουθα : 
-  - Μεθόδους : Lagrange, Eλαχίστων τετραγώνων και κυβικής Spline. ([Άσκηση 5](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/1st%20Assignment/Exercise%205))
+  - Μεθόδους : Lagrange, Eλαχίστων τετραγώνων και κυβικής Spline. ([Άσκηση 5](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/2nd%20Assignment/Exercise%205))
   - Μέθοδος Simpson. ([Άσκηση 6](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/2nd%20Assignment/Exercise%206))
-  - Μέθοδος Ελαχίστων Τετραγώνων. ([Άσκηση 7](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/1st%20Assignment/Exercise%207))
-<br />
-<br />
+  - Μέθοδος Ελαχίστων Τετραγώνων. ([Άσκηση 7](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/2nd%20Assignment/Exercise%207))
+
 ### Αριθμητική Ανάλυση
-Η [Αριθμητική Ανάλυση](https://elearning.auth.gr/course/view.php?id=7942) είναι ένα μάθημα γενικού κορμού του τμήματος Πληροφορικής του ΑΠΘ.  <br /> 
+Η [Αριθμητική Ανάλυση](https://elearning.auth.gr/course/view.php?id=7942) είναι ένα μάθημα γενικού κορμού του τμήματος [Πληροφορικής](https://www.csd.auth.gr/) του [ΑΠΘ](https://www.auth.gr/).  <br /> 
 Διδάσκεται στο χειμερινό εξάμηνο του 2ου έτους. 
 
 
@@ -49,5 +48,5 @@ The two folders are :
   - Least Squares Method. ([Άσκηση 7](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/1st%20Assignment/Exercise%207))
 
 ### Numerical Analysis
-[Numerical Analysis](https://elearning.auth.gr/course/view.php?id=7942) is a general core course of the Computer Science Department of Auth.  <br /> 
+[Numerical Analysis](https://elearning.auth.gr/course/view.php?id=7942) is a general core course of the [Computer Science Department](https://www.csd.auth.gr/en) of [Auth](https://www.auth.gr/en/).  <br /> 
 Taught in the winter semester of the 2nd year.
