@@ -137,11 +137,11 @@ In 1st Assignment's [folder](https://github.com/tsingi-chris/Numerical-Analysis/
  
  
 ## 2nd Assignment
-Η δεύτερη εργασία αποτελείται απο 3 ασκήσεις. <br />Οι μέθοδοι που χρησιμοποιούνται σε κάθε άσκηση αναφέρονται παρακάτω.<br /> 
-Στον [φάκελο](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/2nd%20Assignment) της 2ης εργασίας μπορούν να βρεθούν τα παρακάτω αρχεία :
+Second assignment contains 3 exercise. <br />The used methods ,for every exercise, are listed below.<br /> 
+In 2nd Assignment's [folder](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/2nd%20Assignment) you can find the following files :
 
 
-- [Εκφώνηση της 2ης Εργασίας](https://github.com/tsingi-chris/Numerical-Analysis/blob/main/2nd%20Assignment/Assignment2Description.pdf) [[💾](https://github.com/tsingi-chris/Numerical-Analysis/raw/main/2nd%20Assignment/Assignment2Description.pdf)]
+- [Description of 2nd Assignment](https://github.com/tsingi-chris/Numerical-Analysis/blob/main/2nd%20Assignment/Assignment2Description.pdf) [[💾](https://github.com/tsingi-chris/Numerical-Analysis/raw/main/2nd%20Assignment/Assignment2Description.pdf)]
 
 
 - For the 5th Exercise :
