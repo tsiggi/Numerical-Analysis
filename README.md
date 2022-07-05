@@ -1,6 +1,6 @@
 # Numerical-Analysis
-- [ReadMe in Greek](https://github.com/tsingi-chris/Numerical-Analysis/blob/main/README.md#reedme-in-greek)
-- [ReadMe in English](https://github.com/tsingi-chris/Numerical-Analysis/blob/main/README.md#readme-in-english)
+- [ReadMe in Greek](https://github.com/tsingi-chris/Numerical-Analysis#reedme-in-greek)
+- [ReadMe in English](https://github.com/tsingi-chris/Numerical-Analysis#readme-in-english)
 
 ## ReedMe in Greek
 Αυτό το repository περιέχει 2 Εργασίες που ανατέθηκαν στην Αριθμητική Ανάλυση (2021-2022). <br />
