@@ -23,6 +23,7 @@
 <br />
 <br />
 ###Αριθμητική Ανάλυση
+
 Η [Αριθμητική Ανάλυση](https://elearning.auth.gr/course/view.php?id=7942) είναι ένα μάθημα γενικού κορμού του τμήματος Πληροφορικής του ΑΠΘ.  <br /> 
 Διδάσκεται στο χειμερινό εξάμηνο του 2ου έτους. 
 
@@ -49,5 +50,6 @@ The two folders are :
   - Least Squares Method. ([Άσκηση 7](https://github.com/tsingi-chris/Numerical-Analysis/tree/main/1st%20Assignment/Exercise%207))
 
 ###Numerical Analysis
+
 [Numerical Analysis](https://elearning.auth.gr/course/view.php?id=7942) is a general core course of the Computer Science Department of Auth.  <br /> 
 Taught in the winter semester of the 2nd year.
